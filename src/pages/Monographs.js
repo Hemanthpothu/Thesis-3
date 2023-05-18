@@ -167,7 +167,7 @@ function Monographs() {
                         scope="col"
                         class="text-sm font-medium text-gray-900 px-3 py-4 text-left"
                       >
-                        Condition/Disease
+                        Condition
                       </th>
                       <th
                         scope="col"
