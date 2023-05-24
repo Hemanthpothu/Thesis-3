@@ -9,7 +9,7 @@ function Courses() {
       <Navbar />
       <div className="flex justify-center items-center text-center mt-4">
         <Title
-          title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
+          // title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
           des="Courses"
         />
       </div>

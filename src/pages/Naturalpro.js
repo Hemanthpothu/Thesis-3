@@ -10,14 +10,11 @@ import "../index.css";
 function Naturalpro() {
     const [name,setName] =useState("")
     return (
-        
-
-
         <div className="w-full h-auto bg-bodyColor text-lightText px-4">
             <Navbar />
             <div className="flex justify-center items-center text-center mt-4">
                 <Title
-                    title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
+                    // title="VISIT MY PORTFOLIO AND KEEP YOUR FEEDBACK"
                     des="Natural Products Data"
                 />
             </div>
