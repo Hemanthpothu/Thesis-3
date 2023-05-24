@@ -36,12 +36,7 @@ const Education = () => {
             des="Enrolled in AcSIR (Academy of Scientific and Innovative Research, http://acsir.res.in/ ). Under Supervision of Dr. Ram A. Vishwakarma"
           />
         </div>
-      </div>
-      <div>
-        <div className="flex flex-col gap-4">
-          {/* <p className="text-sm text-designColor tracking-[4px]">2001 - 2020</p>
-          <h2 className="text-4xl font-bold">Trainer Experience</h2> */}
-        </div>
+
         <div className="mt-20 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Research Assistant"
