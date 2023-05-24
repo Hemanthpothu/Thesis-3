@@ -43,19 +43,7 @@ function Grants() {
                                                 scope="col"
                                                 class="text-sm font-medium text-gray-900 px-3 py-4 text-left"
                                             >
-                                            Grant Amount
-                                            </th>
-                                            <th
-                                                scope="col"
-                                                class="text-sm font-medium text-gray-900 px-3 py-4 text-left"
-                                            >
-                                            Started on
-                                            </th>
-                                            <th
-                                                scope="col"
-                                                class="text-sm font-medium text-gray-900 px-3 py-4 text-left"
-                                            >
-                                            Ended on
+                                            Status
                                             </th>
                                         </tr>
                                     </thead>

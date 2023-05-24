@@ -790,33 +790,26 @@ export const monographs = [
 
 export const GrantData=[
   [
+    "DST Sponsored",
+    "3 Years",
+    "On-going"
+  ],
+  [
+    "CRG",
+    "3 Years",
+    "On-going"
+  ],
+  [
     "Seed Money IIT BHU",
     "1 Year",
-    "10 Lakhs",
-    "",
-    ""
+    "Completed"
   ],
   [
     "Industrial Consultancy Project",
     "1 Year",
-    "18 Lakhs",
-    "",
-    ""
+    "Completed",
   ],
-  [
-    "DST Sponsored",
-    "3 Years",
-    "65 Lakhs",
-    "",
-    ""
-  ],
-  [
-    "CRG",
-    "",
-    "",
-    "2023",
-    "On-going"
-  ],
+  
 ];
 
 export const courses = [
