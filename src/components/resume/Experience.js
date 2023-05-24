@@ -12,7 +12,7 @@ const Experience = () => {
       <div>
         <div className="flex flex-col gap-4">
           {/* <p className="text-sm text-designColor tracking-[4px]">2010 - 2022</p> */}
-          <h2 className="text-4xl font-bold">Education</h2>
+          <h2 className="text-4xl font-bold tracking-[4px]">Education</h2>
         </div>
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
@@ -20,7 +20,7 @@ const Experience = () => {
             subTitle="CSIR-Indian Institute of Integrative Medicine, Jammu"
             result="2011-2015"
             des="Enrolled in AcSIR (Academy of Scientific and Innovative Research). Under Supervision of Dr. Ram A. Vishwakarma 
-Title- Isolation, Synthetic Modifications and Biological Evaluaton of Compounds from Dysoxylum binectariferum, Bergenia ciliata and Mallotus philippensis, Submitted on 11 February 2015, Awarded on Sept 3, 2015"
+Title- Isolation, Synthetic Modifications and Biological Evaluaton of Compounds from Dysoxylum binectariferum, Bergenia ciliata and Mallotus philippensis"
           />
           <ResumeCard
             title="M.S. (Pharm)"
@@ -30,12 +30,7 @@ Title- Isolation, Synthetic Modifications and Biological Evaluaton of Compounds 
 Title- Synthesis and antileishmanial activity of piperine - amino acid conjugates"
           />
         </div>
-      </div>
-      <div>
-        <div className="flex flex-col gap-4">
-          {/* <p className="text-sm text-designColor tracking-[4px]">2001 - 2020</p>
-          <h2 className="text-4xl font-bold">Trainer Experience</h2> */}
-        </div>
+
         <div className="mt-14 w-full h-[1000px] border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="B. Pharmacy"

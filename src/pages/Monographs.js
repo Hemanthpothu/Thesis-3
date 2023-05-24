@@ -5,7 +5,6 @@ import Title from "../components/layouts/Title";
 import { monographs } from "../constants";
 import { useParams } from "react-router-dom";
 
-
 function Monographs() {
   const { id } = useParams();
   console.log(id);
@@ -28,7 +27,7 @@ function Monographs() {
         <span className="mr-20">{monographData.botanicalName}</span>
         <span className="font-bold ml-20">Family:</span> {monographData.family}
       </h2>
-      <h2 className="text-4xl font-bold ml-20 mt-10">Introduction:</h2>
+      <h2 className="text-4xl font-bold ml-2 mt-10">Introduction:</h2>
       <div className="max-w-screen-xl mx-auto">
         <p className="text-base font-bodyFont leading-6 tracking-wide mt-8">
           {monographData.introduction}

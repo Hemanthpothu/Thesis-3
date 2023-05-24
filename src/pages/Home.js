@@ -8,6 +8,7 @@ import Navbar from "../components/navbar/Navbar";
 import Monographs from "../components/projects/Monographs";
 import Resume from "../components/resume/Resume";
 import Testimonial from "../components/tesimonial/Testimonial";
+import ContactLeft from "../components/contact/ContactLeft";
 
 function Home() {
   return (
@@ -19,7 +20,7 @@ function Home() {
         <Resume />
         {/* <Monographs /> */}
         {/* <Testimonial /> */}
-        <Contact />
+        <ContactLeft />
         <Footer />
         <FooterBottom />
       </div>
