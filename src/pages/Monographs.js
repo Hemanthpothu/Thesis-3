@@ -33,7 +33,7 @@ function Monographs() {
           {monographData.introduction}
         </p>
       </div>
-      <h2 className="text-4xl font-bold ml-20 mt-10">Vernacular Names:</h2>
+      <h2 className="text-4xl font-bold ml-2 mt-10">Vernacular Names:</h2>
       <div className="max-w-screen-xl mx-auto">
         <div class="flex flex-col">
           <div class="overflow-x-auto sm:mx-0.5 lg:mx-0.5">
@@ -103,7 +103,7 @@ function Monographs() {
       </div>
       {monographData.morphology && (
         <>
-          <h2 className="text-4xl font-bold ml-20 mt-10">Morphology:</h2>
+          <h2 className="text-4xl font-bold ml-2 mt-10">Morphology:</h2>
           <div className="max-w-screen-xl mx-auto">
             <div class="flex flex-col">
               <div class="overflow-x-auto sm:mx-0.5 lg:mx-0.5">
@@ -145,8 +145,8 @@ function Monographs() {
           </div>
         </>
       )}
-      <h2 className="text-4xl font-bold ml-20 mt-10">Literature survey</h2>
-      <h4 className="text-1xl font-bold ml-20 mt-10">
+      <h2 className="text-4xl font-bold ml-2 mt-10">Literature survey</h2>
+      <h4 className="text-1xl font-bold ml-2 mt-10">
         Clinical trial reports with reference to Clinicaltrial.gov
       </h4>
       <div className="max-w-screen-xl mx-auto">
@@ -236,7 +236,7 @@ function Monographs() {
       </div>
       {monographData.preclinical && (
         <>
-          <h2 className="text-4xl font-bold ml-20 mt-10">
+          <h2 className="text-4xl font-bold ml-2 mt-10">
             Preclinical and animal studies:
           </h2>
           <div className="max-w-screen-xl mx-auto">
