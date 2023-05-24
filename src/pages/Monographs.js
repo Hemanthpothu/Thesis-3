@@ -5,6 +5,7 @@ import Title from "../components/layouts/Title";
 import { monographs } from "../constants";
 import { useParams } from "react-router-dom";
 
+
 function Monographs() {
   const { id } = useParams();
   console.log(id);
@@ -167,7 +168,7 @@ function Monographs() {
                         scope="col"
                         class="text-sm font-medium text-gray-900 px-3 py-4 text-left"
                       >
-                        Condition
+                        Condition/Disease
                       </th>
                       <th
                         scope="col"

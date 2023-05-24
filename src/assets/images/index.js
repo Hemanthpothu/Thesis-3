@@ -1,4 +1,20 @@
 const IMG={
-    i1:require('./bannerImg.png'),
+    i1:require('./mangiferin_H NMR.jpg'),
+    i2:require('./Andrographolide_Carbon NMR.jpg'),
+    i3:require('./Didehydroandrographolide_Carbon NMR.jpg'),
+    i4:require('./Andrographolide_DEPT-135 NMR.jpg'),
+    i5:require('./Didehydroandrographolide_DEPT-135 NMR.jpg'),
+    i6:require('./Andrographolide_Proton NMR.jpg'),
+    i7:require('./Didehydroandrographolide_Proton NMR.jpg'),
+    i8:require('./Neoandrographolide_Carbon NMR.jpg'),
+    i9:require('./Neoandrographolide_DEPT-135 NMR.jpg'),
+    i10:require('./Neoandrographolide_Proton NMR.jpg'),
+    i11:require('./BG-GS-04_13C_Palmitic Acid.jpg'),
+    i12:require('./BG-GS-04_1H_Palmitic Acid.jpg'),
+    i13:require('./BG-GS-Col_Colchicine_13C.jpg'),
+    i14:require('./BG-GS-Col_Colchicine_1H.jpg'),
+    i15:require('./Withaferin A_ Carbon NMR.jpg'),
+    i16:require('./Withaferin A_ DEPT 135.jpg'),
+    i17:require('./Withaferin A_ Proton NMR.jpg'),
 }
 export default IMG;

@@ -31,7 +31,7 @@ function App() {
         <Route exact path="/gallery" element={<Gallery />} />
         <Route exact path="/monographs/:id" element={<Monographs />} />
         <Route exact path="/NaturalProducts" element={<Natural />} />
-        {/* <Route exact path="/Nmr_data" element={<Nmr />} /> */}
+        <Route exact path="/Nmr" element={<Nmr />} />
         {/* <gallery/> */}
         {/* <Route exact path="/grants" element={<Grants />} /> */}
       </Routes>

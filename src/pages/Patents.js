@@ -3,6 +3,7 @@ import Footer from "../components/footer/Footer";
 import Title from "../components/layouts/Title";
 import Navbar from "../components/navbar/Navbar";
 
+
 function Patents() {
   return (
     <div className="w-full h-auto bg-bodyColor text-lightText px-4">

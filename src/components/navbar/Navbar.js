@@ -203,7 +203,7 @@ const Navbar = () => {
                   </Link>
                   <Link
                     activeClass="active"
-                    to="/Nmr_data"
+                    to="/Nmr"
                     spy={true}
                     smooth={true}
                     offset={-70}

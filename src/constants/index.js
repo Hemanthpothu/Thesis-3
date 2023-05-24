@@ -17,16 +17,24 @@ export const navLinksdata = [
 ];
 export const researchData2023 = [
   {
-    _id: 2001,
-    data: "1. Tripathi, N., N. Bhardwaj, S. Kumar and S. K. Jain A machine learning-based KNIME workflow to predict VEGFR-2 inhibitors.' Chemical Biology & Drug Design https://doi.org/10.1111/cbdd.14250.",
+    _id:2001,
+    data:"1. Diksha Manhas, Shipra Bhatt, Garima Rai, Vinay Kumar, Sahil Bharti, Sumit Dhiman, Shreyans K. Jain, Deepak K. Sharma, Probir Kumar Ojha, Sumit G. Gandhi, Anindya Goswami, Utpal Nandi, Rottlerin renders a selective and highly potent CYP2C8 inhibition to impede EET formation for implication in cancer therapy, Chemico-Biological Interactions,2023, 110524 https://doi.org/10.1016/j.cbi.2023.110524"
   },
   {
-    _id: 2002,
-    data: "2. Singh, V., K. S. Jain and V. Mishra (2023). 'A Recent Update on SARS-CoV-2 Transmission and its Variants: Transmission, Pathogenic Mechanism, and Treatment.' Coronaviruses 4(1): 3-15. DOI: 10.2174/2666796704666230102121225",
+    _id:2002,
+    data:"2. Kumar, S.; Mishra, A.; Dwivedi, K. N.; Singh, N.; Kumar, A.; Bhartiya, S. K.; Krishnamoorthi, S.; Kumar, A.; Goel, B.; Jain, S. K. Evidence-Based Therapeutic Potential of Natural Seed Oil of Desert Date/Ingudi (Balanites aegyptiaca Linn. Delile) in Chronic Diabetic Wound. Proceedings of the National Academy of Sciences, India Section B: Biological Sciences 2023, https://doi.org/10.1007/s40011-023-01487-y"
   },
   {
     _id: 2003,
-    data: "3. Kumar, S., N. Singh, A. Mittal, H. Kharkwal, S. K. Jain and B. Goel (2023). 'The genus Leucas: A review on phytochemistry and pharmacological activities. Fitoterapia 167: 105492.' https://doi.org/10.1016/j.fitote.2023.105492 .",
+    data: "3. Tripathi, N., N. Bhardwaj, S. Kumar and S. K. Jain A machine learning-based KNIME workflow to predict VEGFR-2 inhibitors.' Chemical Biology & Drug Design https://doi.org/10.1111/cbdd.14250.",
+  },
+  {
+    _id: 2004,
+    data: "4. Singh, V., K. S. Jain and V. Mishra (2023). 'A Recent Update on SARS-CoV-2 Transmission and its Variants: Transmission, Pathogenic Mechanism, and Treatment.' Coronaviruses 4(1): 3-15. DOI: 10.2174/2666796704666230102121225",
+  },
+  {
+    _id: 2005,
+    data: "5. Kumar, S., N. Singh, A. Mittal, H. Kharkwal, S. K. Jain and B. Goel (2023). 'The genus Leucas: A review on phytochemistry and pharmacological activities. Fitoterapia 167: 105492.' https://doi.org/10.1016/j.fitote.2023.105492 .",
   },
 ];
 export const researchData2022 = [
@@ -778,6 +786,37 @@ export const monographs = [
       ],
     ],
   },
+];
+
+export const GrantData=[
+  [
+    "Seed Money IIT BHU",
+    "1 Year",
+    "10 Lakhs",
+    "",
+    ""
+  ],
+  [
+    "Industrial Consultancy Project",
+    "1 Year",
+    "18 Lakhs",
+    "",
+    ""
+  ],
+  [
+    "DST Sponsored",
+    "3 Years",
+    "65 Lakhs",
+    "",
+    ""
+  ],
+  [
+    "CRG",
+    "",
+    "",
+    "2023",
+    "On-going"
+  ],
 ];
 
 export const courses = [
